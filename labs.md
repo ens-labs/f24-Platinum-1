@@ -92,36 +92,6 @@ layout: labs
             </div>
         </div>
     </div>
-    <!-- Lab 1 Individual (Derek) -->
-    <div class="accordion-item">
-        <h2 class="accordion-header" id="headingLab6">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab6" aria-expanded="false" aria-controls="collapseLab6">
-                Lab 1 Individual - Derek Caldwell
-            </button>
-        </h2>
-        <div id="collapseLab6" class="accordion-collapse collapse" aria-labelledby="headingLab6" data-bs-parent="#labsAccordion">
-            <div class="accordion-body">
-                <strong>Fill in...</strong>
-                <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
-                <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
-            </div>
-        </div>
-    </div>
-    <!-- Lab 1 Individual (Colin) -->
-    <div class="accordion-item">
-        <h2 class="accordion-header" id="headingLab7">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLab7" aria-expanded="false" aria-controls="collapseLab7">
-                Lab 1 Individual - Colin Thoe
-            </button>
-        </h2>
-        <div id="collapseLab7" class="accordion-collapse collapse" aria-labelledby="headingLab7" data-bs-parent="#labsAccordion">
-            <div class="accordion-body">
-                <strong>Fill in...</strong>
-                <iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
-                <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
-            </div>
-        </div>
-    </div>
 </div>
 
 <!-- Bootstrap JS and dependencies -->
