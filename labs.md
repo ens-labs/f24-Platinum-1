@@ -59,7 +59,7 @@ layout: labs
             <div class="accordion-body">
                 <strong>Fill in...</strong>
                 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQoJ156sqj3J1H6UGtdnLrLy5AJizvvafoigvLiCJYk3iaK0xYaHl4Jqg0itkbq8w/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
-                <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
+                <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;" href="pdfs/XuLab1Section1.pdf">Download PDF</a>
             </div>
         </div>
     </div>
