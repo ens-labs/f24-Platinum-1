@@ -87,7 +87,7 @@ layout: labs
         <div id="collapseLab5" class="accordion-collapse collapse" aria-labelledby="headingLab5" data-bs-parent="#labsAccordion">
             <div class="accordion-body">
                 <strong>Fill in...</strong>
-                <iframe src="https://docs.google.com/document/d/e/2PACX-1vSZh9lS2-9vdVoAfJytElqp7D5J-RmsLaV2FRxSF7etGJPOJ4tfqh-F5FOsTknIkw/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+                <iframe src="https://docs.google.com/document/d/1byttHdz7-nRf4yh2TVzLqDM92WzwYs8T/pub?embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
                 <a class = "btn btn-primary" style="background-color: #93bd20; border: 1px solid #527f0e;">Download PDF</a>
             </div>
         </div>
